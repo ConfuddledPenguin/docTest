@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "About": ["about"],
+    "Getting Started": ["doc2"],
+    "Grand Plan": [
+      "grand_plan/grand_plan_home",
+      "grand_plan/grand_plan_issues",
+      "grand_plan/grand_plan_solution"
+    ]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
